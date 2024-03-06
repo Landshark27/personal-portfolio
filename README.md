@@ -1,18 +1,7 @@
-# [Start Bootstrap - Personal](https://startbootstrap.com/template/personal/)
-
-[Personal](https://startbootstrap.com/template/personal/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-personal/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-personal.svg)](https://www.npmjs.com/package/startbootstrap-personal)
-
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/personal/)
-* Install via npm: `npm i startbootstrap-personal`
 * Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-personal.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-personal)
 
