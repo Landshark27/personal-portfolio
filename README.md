@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Personal Preview](https://assets.startbootstrap.com/img/screenshots/themes/personal.png)](https://startbootstrap.github.io/startbootstrap-personal/)
+[![Personal Preview](https://github.com/yourusername/yourrepository/blob/main/assets/Headshot.png)](https://startbootstrap.github.io/startbootstrap-personal/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-personal/)**
 
@@ -26,7 +26,15 @@ To begin using this template, choose one of the following options to get started
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+1. **Download the Repository**: Click on the 'Code' button at the top of this GitHub repository, and then click 'Download ZIP'. Extract the ZIP file on your local machine.
+
+2. **Access the Project**: Navigate to the `dist` directory in the extracted files.
+
+3. **Open the Project**: Open the `index.html` file in your web browser to view the project. 
+
+   If you're using Visual Studio Code, you can also use the Live Server extension to view the project. To do this, open the `dist` directory in VS Code, right-click the `index.html` file, and select 'Open with Live Server'.
+
+Remember, you need to have all the files downloaded and kept in the correct structure (as in the repository) for the website to load correctly.
 
 ### Advanced Usage
 
